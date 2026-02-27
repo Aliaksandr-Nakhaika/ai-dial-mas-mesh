@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+core/keys.json
+core/config.json
+core-data/
+core-logs/
